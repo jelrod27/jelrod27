@@ -8,19 +8,22 @@ Hello
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 ---
-I spent almost a decade at [Sentry](https://sentry.io) - started as an early AE and worked my way up to leading sales. Now I'm at [Infisical](https://infisical.com) helping enterprise customers manage their secrets, certificates, and privileged access.
-With AI front and center - Codex, Claude Code, and the rest - I've really leaned into learning as much as I can in my free time when I'm not traveling or pitching Infisical. I'm not going to mass produce any PRs anytime soon, but I've learned more about software development and infrastructure engineering in the last 8 to 9 months than I ever expected. Helping enterprises manage secrets, certificates, and identity at scale every day at Infisical has only made me more curious about how it all works under the hood. I've spent a good amount of my career working with and selling to developers, and eventually you want to understand why and how they're building. It's been really fun.
-### What I'm Building
-- 🌦️ [16bitweather.co](https://16bitweather.co) - A retro weather app because I'm obsessed with weather
-- ⌨️ [weather-cli](https://github.com/deephouse23/weather-cli) - Same obsession, terminal edition
-- 🀄 Mahjong for Dummies - Teaching myself mahjong and figured I'd help others learn too (coming soon)
-### Outside of Work
-San Ramon, where I unofficially oversee local meteorological and seismic activity. CrossFit, cycling, retired breakdancer, EDM, physics, meditation, and following where my curiosity leads me.
-### What I'm Exploring
-- Building with and learning to create AI agents
-- Turning ideas into working apps
-- Figuring out how to make mahjong less intimidating
-- Openclaw personal agent, I need to start looking into Pi 
+About Me
+I spent nearly a decade at Sentry. It was a great ride starting as an IC and being fortunate enough to eventually lead the sales organization for about two years, before transitioning to lead the commercial division for another three. Today, I'm at Infisical, helping enterprise customers secure and manage their secrets, certificates, and privileged access at scale within large enterprises.
+
+Having spent a significant portion of my career working alongside and selling to developers, I naturally grew curious about how things are built under the hood. Over the past year—fueled by the rise of AI tools like Codex and Claude Code—I've dived deep into software development and infrastructure engineering. 
+
+What I'm Building
+🀄 16bitmahjong.co: Just launched! An interactive platform I built while teaching myself Mahjong, designed to make the game less intimidating and help others learn. still very much a wip
+🌦️ 16bitweather.co: A retro-inspired weather application born out of my meteorological obsession.
+⌨️ weather-cli: The same weather obsession, but built for the terminal.
+
+What I'm Exploring
+Building and experimenting with personal AI agents (currently looking into OpenClaw and Pi), though I'm still trying to find the right use case outside of daily briefs.
+Gearing up for my next technical challenge: amateur astrophotography.
+
+Outside of Work
+I'm based in San Ramon, where I jokingly consider myself the unofficial overseer of local meteorological and seismic activity. When I'm not traveling or pitching Infisical, you can usually find me doing CrossFit, cycling, skiing, trying to run more than 2 miles, hot yoga or leaning into my diverse interests. 
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/justinelrod1/)
 - [X](https://x.com/Justin_Elrod)
