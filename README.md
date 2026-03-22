@@ -8,7 +8,8 @@ Hello
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 ---
-About Me
+About Me:
+
 I spent nearly a decade at Sentry. It was a great ride starting as an IC and being fortunate enough to eventually lead the sales organization for about two years, before transitioning to lead the commercial division for another three. Today, I'm at Infisical, helping enterprise customers secure and manage their secrets, certificates, and privileged access at scale within large enterprises.
 
 Having spent a significant portion of my career working alongside and selling to developers, I naturally grew curious about how things are built under the hood. Over the past year—fueled by the rise of AI tools like Codex and Claude Code—I've dived deep into software development and infrastructure engineering. 
