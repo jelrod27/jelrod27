@@ -17,7 +17,7 @@ After that long selling to developers, I got genuinely curious about what was ha
 
 - 🀄 **[16bitmahjong.co](https://16bitmahjong.co/):** Just launched. An interactive platform I built while teaching myself Mahjong, meant to make a genuinely intimidating game a little less so. Still very much a WIP.
 - 🌦️ **[16bitweather.co](https://16bitweather.co/):** A weather app born out of my childhood meteorological obsession. It started out retro and has since grown more modern. The 16-bit look is still there if you register and pick that theme. Honestly, it's been a blast to build.
-- ⌨️ **weather-cli:** Same obsession, fewer pixels. Built for the terminal.
+- ⌨️ **[weather-cli](https://github.com/jelrod27/weather-cli):** Same obsession, fewer pixels. Built for the terminal.
 - 🚧 **More on the way:** a few other projects I'm hoping to publish soon.
 
 ### What I'm Exploring
