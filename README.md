@@ -2,7 +2,7 @@
 
 I work with enterprise customers at Infisical. Before that, I spent seven years at Sentry in sales and leadership roles.
 
-After years working with engineering teams, I started learning to build software myself. I use Claude Code and Cursor extensively. These projects are how I’m learning development, hosting, and networking.
+After years working with engineering teams, I started building and vibe coding with Claude Code, Codex, and open models like DeepSeek and GLM. These projects are how I’m learning development, hosting, and networking.
 
 ### Things I’m building
 
